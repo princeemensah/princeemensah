@@ -20,7 +20,7 @@
   
 My background is in Mathematics and Machine Learning with programming proficiency in Python, C and C++. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms.
 </div> -->
-
+<!--
 ## Contributions
 <a href="https://github.com/princeemensah">
   <img align="right" src="https://komarev.com/ghpvc/?username=princeemensah&label=Visitors&color=4B88F6&style=flat" alt="Profile Visitors" />
@@ -53,7 +53,7 @@ My background is in Mathematics and Machine Learning with programming proficienc
 <!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) -->
-
+<!--
 <br />
 <br />
 <br />
@@ -67,6 +67,6 @@ My background is in Mathematics and Machine Learning with programming proficienc
   </a>
   <br/>
 </a>
-
+-->
 
 
