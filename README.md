@@ -22,20 +22,20 @@ My background is in Mathematics and Machine Learning with programming proficienc
 </div> -->
 
 ## Contributions
-<a href="https://github.com/pmensah28">
+<a href="https://github.com/princeemensah">
   <img align="right" src="https://komarev.com/ghpvc/?username=pmensah28&label=Visitors&color=4B88F6&style=flat" alt="Profile Visitors" />
 </a>
 
 [![Projects? 12+](https://img.shields.io/badge/Projects-12%2B-4B88F6?style=flat)](https://github.com/pmensah28)
 
 <p align="center">
-  <a href="https://github.com/pmensah28">
+  <a href="https://github.com/princeemensah">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmensah28&theme=react&border=4B88F6&background=0D1117" alt="GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pmensah28">
+  <a href="https://github.com/princeemensah">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmensah28&theme=github_dark&border=4B88F6" alt="GitHub Contribution"/>
   </a>
 </p>
@@ -59,10 +59,10 @@ My background is in Mathematics and Machine Learning with programming proficienc
 <br />
 
 <a> 
-  <a href="https://github.com/pmensah28">
+  <a href="https://github.com/princeemensah">
     <img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pmensah28&show_icons=true&count_private=true&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/pmensah28">
+  <a href="https://github.com/princeemensah">
     <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pmensah28&langs_count=8&layout=compact&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" height="192px" width="49.5%"/>
   </a>
   <br/>
