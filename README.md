@@ -21,14 +21,23 @@
 <a href="https://github.com/princeemensah?tab=followers"><img src="https://img.shields.io/github/followers/princeemensah?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
 
-<tr>
-  <td width="100%" align="center">
-    <a href="https://github.com/princeemensah">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github&border=4B88F6"
-        alt="GitHub Contribution"
-        width="100%"
-      />
-    </a>
-  </td>
-</tr>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github&border=4B88F6"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
+    alt="GitHub Contribution"
+    width="100%"
+  />
+</picture>
+
+<br>
+
+> <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
+
