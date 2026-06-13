@@ -2,7 +2,8 @@
   <td width="100%" align="center">
     <a href="https://github.com/princeemensah">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github
+&border=4B88F6"
         alt="GitHub Contribution"
         width="100%"
       />
