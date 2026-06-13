@@ -5,10 +5,10 @@
 <!-- <p align="center">
  <a href="mailto:princemensah@aims.edu.gh">Email</a> ✦
  <a href="https://linkedin.com/in/prince-mensah">LinkedIn</a> ✦
- <a href="https://princeemensah.github.io/">Website</a>
+ <a href="https://princeemensah.github.io/">Website</a> -->
  <!-- <a href="https://BunsDev.com">BunsDev.com</a> ✦
  <a href="https://cast.codes">cast.codes</a> -->
-</p> -->
+<!-- </p> -->
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://princeemensah.github.io/)](https://princeemensah.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
