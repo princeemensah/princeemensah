@@ -1,4 +1,3 @@
-<table align="center" cellspacing="0" cellpadding="8">
   <tr>
     <td width="100%" align="center">
       <a href="https://github.com/princeemensah">
@@ -10,7 +9,6 @@
       </a>
     </td>
   </tr>
-</table>
 
 
 <div align="center">
