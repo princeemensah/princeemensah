@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://github.com/princeemensah">
+  <a href="https://github.com/princeemensah" style="display:inline-block;margin-right:12px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6" alt="GitHub Contribution"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/princeemensah">
+  <a href="https://github.com/princeemensah" style="display:inline-block;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeemensah&theme=react&border=4B88F6&background=0D1117" alt="GitHub streak"/>
   </a>
 </p>
@@ -36,7 +35,7 @@ My background is in Mathematics and Machine Learning with programming proficienc
 <!-- [![Projects? 12+](https://img.shields.io/badge/Projects-12%2B-4B88F6?style=flat)](https://github.com/princeemensah) -->
 
 
-<!-- ## 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![C++](https://img.shields.io/badge/C++-4B88F6?style=for-the-badge&labelColor=black&logo=c++&logoColor=4B88F6)
@@ -44,7 +43,7 @@ My background is in Mathematics and Machine Learning with programming proficienc
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=orange)
 ![Docker](https://img.shields.io/badge/Docker-4B88F6?style=for-the-badge&logo=docker&logoColor=4B88F6)
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&logo=css3&logoColor=F0DB4F)
-![VSCode](https://img.shields.io/badge/Visual_Studio-4B88F6?style=for-the-badge&logo=visual%20studio&logoColor=white) -->
+![VSCode](https://img.shields.io/badge/Visual_Studio-4B88F6?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) -->
