@@ -1,15 +1,16 @@
-<table align="center" cellspacing="0" cellpadding="8"><tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/princeemensah">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6" alt="GitHub Contribution" width="100%" />
-    </a>
-  </td>
-  <td width="50%" align="center">
-    <a href="https://github.com/princeemensah">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeemensah&theme=react&border=4B88F6&background=0D1117" alt="GitHub streak" width="100%" />
-    </a>
-  </td>
-</tr></table>
+<table align="center" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="100%" align="center">
+      <a href="https://github.com/princeemensah">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
+          alt="GitHub Contribution"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
