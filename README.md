@@ -1,21 +1,19 @@
-<p align="center">
-  <a href="https://github.com/princeemensah">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
-      width="49%"
-      alt="GitHub Contribution"
-    />
-  </a>
-  <a href="https://github.com/princeemensah">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=princeemensah&theme=react&border=4B88F6&background=0D1117"
-      width="49%"
-      alt="GitHub streak"
-    />
-  </a>
-</p>
+<table align="center" cellspacing="0" cellpadding="8"><tr>
+  <td width="50%" align="center">
+    <a href="https://github.com/princeemensah">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6" alt="GitHub Contribution" width="100%" />
+    </a>
+  </td>
+  <td width="50%" align="center">
+    <a href="https://github.com/princeemensah">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeemensah&theme=react&border=4B88F6&background=0D1117" alt="GitHub streak" width="100%" />
+    </a>
+  </td>
+</tr></table>
+
 
 <div align="center">
+
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://princeemensah.github.io/)](https://princeemensah.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
