@@ -40,5 +40,5 @@
 <br>
 <div align="center"> 
 
-> <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
+<em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
 </div> 
