@@ -10,7 +10,7 @@
  <a href="https://prince.codes">prince.codes</a> -->
 <!-- </p> -->
 
-<div align="center"> 
+<!-- <div align="center"> 
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://princeemensah.github.io/)](https://princeemensah.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
@@ -38,7 +38,7 @@
 </picture>
 
 <br>
-<div align="center"> 
+<div align="center">  -->
 
 <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
 </div> 
