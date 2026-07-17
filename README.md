@@ -1,7 +1,7 @@
-<div align="center"> 
+<!-- <div align="center"> 
 
 # Prince Mensah
-</div> 
+</div>  -->
 <!-- <p align="center">
  <a href="mailto:princemensah@aims.edu.gh">Email</a> ✦
  <a href="https://linkedin.com/in/prince-mensah">LinkedIn</a> ✦
@@ -40,5 +40,5 @@
 <br>
 <div align="center">  -->
 
-<em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
-</div> 
+<!-- <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
+</div>  -->
