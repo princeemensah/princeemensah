@@ -1,14 +1,13 @@
-<!-- <div align="center"> 
+<div align="center">
 
 # Prince Mensah
-</div>  -->
-<!-- <p align="center">
+</div>
+<p align="center">
  <a href="mailto:princemensah@aims.edu.gh">Email</a> ✦
  <a href="https://linkedin.com/in/prince-mensah">LinkedIn</a> ✦
- <a href="https://princeemensah.github.io/">Website</a> -->
- <!-- <a href="https://twitter">twitter.com</a> ✦
- <a href="https://prince.codes">prince.codes</a> -->
-<!-- </p> -->
+ <a href="https://princeemensah.github.io/">Website</a> ✦
+ <a href="https://princeemensah.github.io/assets/princemensah_resume.pdf">Resume</a>
+</p>
 
 <div align="center"> 
 
@@ -24,21 +23,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
+    srcset="profile-summary-card-output/github_dark/0-profile-details.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github&border=4B88F6"
+    srcset="profile-summary-card-output/github/0-profile-details.svg"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
-    alt="GitHub Contribution"
+    src="profile-summary-card-output/github/0-profile-details.svg"
+    alt="Prince Mensah's GitHub profile summary"
     width="100%"
   />
 </picture>
-
-<br>
-<div align="center">
-
-<!-- <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
-</div>  -->
