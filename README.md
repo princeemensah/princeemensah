@@ -21,7 +21,7 @@
 <a href="https://github.com/princeemensah?tab=followers"><img src="https://img.shields.io/github/followers/princeemensah?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
 
-<!-- <picture>
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
@@ -37,7 +37,7 @@
   />
 </picture>
 
-<br> -->
+<br>
 <div align="center">
 
 <!-- <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
