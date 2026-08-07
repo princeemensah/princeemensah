@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: github-profile-summary-cards-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -25,4 +29,22 @@ jobs:
           USERNAME: princeemensah
           BRANCH_NAME: main
           UTC_OFFSET: 0
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Verify and publish generated cards
+        run: |
+          test -s profile-summary-card-output/github/0-profile-details.svg
+          test -s profile-summary-card-output/github_dark/0-profile-details.svg
+
+          git config user.email "profile-summary-cards-bot@example.com"
+          git config user.name "profile-summary-cards[bot]"
+          git add profile-summary-card-output
+
+          if git diff --cached --quiet; then
+            echo "Generated cards are already up to date."
+            exit 0
+          fi
+
+          git commit -m "Generate profile summary cards"
+          git pull --rebase origin main
+          git push origin HEAD:main
