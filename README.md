@@ -9,7 +9,7 @@
  <a href="https://princeemensah.github.io/assets/princemensah_resume.pdf">Resume</a>
 </p> -->
 
-**OpenCoven** is that commitment in practice. An open ecosystem for persistent AI familiars — agents with names, memory, and purpose. Infrastructure you own, inspect, and extend. A workspace that accumulates power *alongside* you, not against you.
+<!-- **OpenCoven** is that commitment in practice. An open ecosystem for persistent AI familiars — agents with names, memory, and purpose. Infrastructure you own, inspect, and extend. A workspace that accumulates power *alongside* you, not against you. -->
 
 <div align="center"> 
 
