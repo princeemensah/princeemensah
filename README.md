@@ -1,13 +1,15 @@
-<div align="center">
+<div align="center"> 
 
 # Prince Mensah
-</div>
+<!-- </div>
 <p align="center">
  <a href="mailto:princemensah@aims.edu.gh">Email</a> ✦
  <a href="https://linkedin.com/in/prince-mensah">LinkedIn</a> ✦
  <a href="https://princeemensah.github.io/">Website</a> ✦
  <a href="https://princeemensah.github.io/assets/princemensah_resume.pdf">Resume</a>
-</p>
+</p> -->
+
+**OpenCoven** is that commitment in practice. An open ecosystem for persistent AI familiars — agents with names, memory, and purpose. Infrastructure you own, inspect, and extend. A workspace that accumulates power *alongside* you, not against you.
 
 <div align="center"> 
 
@@ -23,15 +25,54 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="profile-summary-card-output/github_dark/0-profile-details.svg"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="profile-summary-card-output/github/0-profile-details.svg"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github&border=4B88F6"
   />
   <img
-    src="profile-summary-card-output/github/0-profile-details.svg"
-    alt="Prince Mensah's GitHub profile summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeemensah&theme=github_dark&border=4B88F6"
+    alt="GitHub Contribution"
     width="100%"
   />
 </picture>
+
+<br>
+
+<div align="center">
+
+<!-- <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
+</div>  -->
+
+> *If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.*
+
+---
+
+## Personal Developments
+> *Persistent infrastructure for agents that stay.*
+
+| | |
+|---|---|
+| **[Panora](https://github.com/openclaw/openclaw)** | Familiar runtime. Any OS, any platform, any model. Your agent. Summoned, not rented. |
+---
+
+## Open Source Contributions
+> *We weave the future and welcome lost souls with open arms.*
+
+| | |
+|---|---|
+| **[Timux](https://github.com/BunsDev/comux)** | Agent cockpit for parallel coding. Branch, build, inspect, merge, and hand off — across isolated, synchronized tmux sessions. |
+
+---
+
+## Proprietary Project Contribution 
+> *Smart contracts are code too. This is that chapter.*
+
+| | |
+|---|---|
+| **[Omni](https://github.com/BunsDev/functions-workshop)** | Bridge AI and on-chain state: use OpenAI to generate a price forecast, post it to Ethereum via Chainlink's decentralized oracle network. |
+
+---
+
+*We build in the open. We hold ourselves accountable to outcomes, not just outputs. We build what we wish already existed — and in a way we won't be ashamed of later.*
