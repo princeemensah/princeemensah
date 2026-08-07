@@ -45,7 +45,7 @@
 <!-- <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
 </div>  -->
 
-> *Here's one of my favorite quotes: "If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.*
+<!-- > *Here's one of my favorite quotes: "If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.*
 
 ---
 
@@ -75,4 +75,4 @@
 
 ---
 
-*We build in the open. We hold ourselves accountable to outcomes, not just outputs. We build what we wish already existed — and in a way we won't be ashamed of later.*
+*We build in the open. We hold ourselves accountable to outcomes, not just outputs. We build what we wish already existed — and in a way we won't be ashamed of later.* -->
