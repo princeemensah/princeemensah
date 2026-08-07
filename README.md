@@ -45,7 +45,7 @@
 <!-- <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
 </div>  -->
 
-> *If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.*
+> *Here's one of my favorite quotes: "If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.*
 
 ---
 
