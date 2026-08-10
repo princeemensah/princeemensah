@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Prince Mensah
+<!-- # Prince Mensah -->
 <!-- </div>
 <p align="center">
  <a href="mailto:princemensah@aims.edu.gh">Email</a> ✦
@@ -11,7 +11,7 @@
 
 <!-- **OpenCoven** is that commitment in practice. An open ecosystem for persistent AI familiars — agents with names, memory, and purpose. Infrastructure you own, inspect, and extend. A workspace that accumulates power *alongside* you, not against you. -->
 
-<div align="center"> 
+<!-- <div align="center">  -->
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://princeemensah.github.io/)](https://princeemensah.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
