@@ -13,7 +13,7 @@
 
 <!-- <div align="center">  -->
 
-[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://princeemensah.com/)](https://princeemensah.github.io/)
+[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://princeemensah.com/)](https://princeemensah.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
 [![Resume](https://img.shields.io/badge/-Resume-4B88F6?style=flat&logo=readme&logoColor=white)](https://www.princeemensah.com/resume.pdf)
 [![Email Me](https://img.shields.io/badge/-Email-676767?style=flat&logo=google-scholar&logoColor=white&link=mailto:pmensah@aimsammi.org)](mailto:pmensah@aimsammi.org)
