@@ -13,7 +13,7 @@
 
 <!-- <div align="center">  -->
 
-[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://princeemensah.github.io/)](https://princeemensah.github.io/)
+[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://princeemensah.com/)](https://princeemensah.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
 [![Resume](https://img.shields.io/badge/-Resume-4B88F6?style=flat&logo=readme&logoColor=white)](https://www.princeemensah.com/resume.pdf)
 [![Email Me](https://img.shields.io/badge/-Email-676767?style=flat&logo=google-scholar&logoColor=white&link=mailto:pmensah@aimsammi.org)](mailto:pmensah@aimsammi.org)
@@ -41,6 +41,23 @@
 <br>
 
 <div align="center">
+
+<p align="left">
+
+  <img
+    align="top"
+    src="https://github-readme-stats-tmoesls-projects.vercel.app/api?username=princeemensah&show_icons=true&bg_color=0D1117&title_color=4B88F6&text_color=C9D1D9&icon_color=4B88F6&border_color=4B88F6&rank_icon=github"
+  /> &nbsp;
+
+  <img
+    align="top"
+    src="https://github-readme-stats-tmoesls-projects.vercel.app/api/top-langs/?username=princeemensah&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&bg_color=0D1117&title_color=4B88F6&text_color=C9D1D9&border_color=4B88F6"
+  />
+
+</p>
+
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,python,redis,postgres,aws,docker,fastapi,pnpm,git,github,vscode&theme=light)](https://skillicons.dev)
 
 <!-- <em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
 </div>  -->
