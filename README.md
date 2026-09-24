@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<p align="left">
+<!-- <p align="left">
 
   <img
     align="top"
@@ -54,7 +54,7 @@
     src="https://github-readme-stats-tmoesls-projects.vercel.app/api/top-langs/?username=princeemensah&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&bg_color=0D1117&title_color=4B88F6&text_color=C9D1D9&border_color=4B88F6"
   />
 
-</p>
+</p> -->
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,python,redis,postgres,aws,docker,fastapi,pnpm,git,github,vscode&theme=light)](https://skillicons.dev)
