@@ -55,7 +55,7 @@
   />
 
 </p> -->
-<em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.
+<em> “If you can't explain it simply, you don't understand it well enough.” — Albert Einstein.</em>
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,python,redis,postgres,aws,docker,fastapi,pnpm,git,github,vscode&theme=light)](https://skillicons.dev)
